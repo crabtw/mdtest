@@ -1,0 +1,9 @@
+[package]
+name = "mdtest"
+version = "0.1.0"
+authors = ["Jyun-Yan You <jyyou.tw@gmail.com>"]
+
+[dependencies]
+pulldown-cmark = "^0.1"
+clap = "^2.31"
+fs_extra = "^1.1"
